@@ -17,7 +17,7 @@ setup(
     name='smsapi-client',
     version=smsapi.__version__,
     description='Python client for manage SmsApi account.',
-    long_description=open('README.md').read(),
+    # long_description=open('README.md').read(),
     author='SMSAPI',
     author_email='bok@smsapi.pl',
     url='https://github.com/smsapi/python-client',
